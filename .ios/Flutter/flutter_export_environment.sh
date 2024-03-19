@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=/Users/ckondke/development/flutter"
-export "FLUTTER_APPLICATION_PATH=/Users/ckondke/AndroidStudioProjects/AddFlutter2Native/flutter_module"
+export "FLUTTER_APPLICATION_PATH=/Users/ckondke/development/pdms-android/flutter_module"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_TARGET=lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"
